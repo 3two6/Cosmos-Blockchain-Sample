@@ -35,9 +35,6 @@ git push origin v0.1
 
 After a draft release is created, make your final changes from the release page and publish it.
 
-### Install
-To install the latest version of your blockchain node's binary, execute the following command on your machine:
-
 ## Learn more
 
 - [Ignite CLI](https://ignite.com/cli)
