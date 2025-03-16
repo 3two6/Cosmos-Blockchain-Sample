@@ -38,11 +38,6 @@ After a draft release is created, make your final changes from the release page 
 ### Install
 To install the latest version of your blockchain node's binary, execute the following command on your machine:
 
-```
-curl https://get.ignite.com/cuttage/cosmoschain@latest! | sudo bash
-```
-`cuttage/cosmoschain` should match the `username` and `repo_name` of the Github repository to which the source code was pushed. Learn more about [the install process](https://github.com/allinbits/starport-installer).
-
 ## Learn more
 
 - [Ignite CLI](https://ignite.com/cli)
